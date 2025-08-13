@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Cantarell';
+  src: url(fonts/Cantarell-VF.woff2) format=("woff2-variations");
+}
+
+* {
+  * font-family: Cantarell;
+  * }
